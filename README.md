@@ -1,10 +1,10 @@
 <div>
  <h1 align="center">Hi 👋, I'm Khôi Nguyễn</h1>
-<h3 align="center">Still have a lot to learn.</h3>
+<h3 align="center">learning...</h3>
  <hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 📖 I’m currently studying at <a href="https://www.google.com/maps/place/Tr%C6%B0%E1%BB%9Dng+THPT+Tr%E1%BA%A7n+Ph%C3%BA/@10.786956,106.6234644,17z/data=!3m1!4b1!4m5!3m4!1s0x31752c03cf9598c7:0x52d9891a95810e56!8m2!3d10.7869507!4d106.6256531?hl=vi-VN/">Tran Phu Highschool</a>
+- 📖 I’m currently studying at <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology</a>
 - 🌱 I’m currently learning **Kotlin**
 - 📫 How to reach me **anhkhoi301205@gmail.com**
 
